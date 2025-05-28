@@ -6,6 +6,10 @@ Actualmente sigo formándome y explorando áreas como la **Inteligencia Artifici
 
 ---
 
+![Aníbal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anibal98-GH&show_icons=true&theme=default)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anibal98-GH&layout=compact)
+
 ## 🚀 Proyectos destacados
 
 ### 📝 TIACHER – Plataforma educativa para corrección automática de exámenes
