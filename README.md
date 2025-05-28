@@ -28,10 +28,10 @@ Aunque no puedo mostrar el código, este proyecto me permitió aplicar técnicas
 
 ---
 
-## 🧰 Tecnologías que uso
+## 🧰 Tecnologías que uso mas destacables
 
 ```text
-Python · Flask · Kotlin · Android · SQL · Git · Linux · TypeScript · React · Vercel · ZXing · Fuel
+Python · Flask · Kotlin · SQL · Git · Linux · Java
 ```
 
 ---
