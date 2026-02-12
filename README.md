@@ -2,7 +2,7 @@
 
 Soy desarrollador de software junior titulado en Desarrollo de Aplicaciones Multiplataforma. Me siento especialmente cómodo trabajando con **Python**, y he desarrollado proyectos tanto móviles como web, centrados en la automatización, la educación y el trabajo en equipo.
 
-Actualmente sigo formándome y explorando áreas como la **Inteligencia Artificial** y la **Ciberseguridad**. Me encanta crear soluciones útiles, bien estructuradas y fáciles de usar.
+Actualmente sigo formándome en **Ciberseguridad**. Me encanta crear soluciones útiles, bien estructuradas y fáciles de usar.
 
 ---
 
