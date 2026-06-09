@@ -1,19 +1,24 @@
 # 👋 ¡Hola! Soy Aníbal
 
-Soy desarrollador de software junior titulado en Desarrollo de Aplicaciones Multiplataforma. Me siento especialmente cómodo trabajando con **Python**, y he desarrollado proyectos tanto móviles como web, centrados en la automatización, la educación y el trabajo en equipo.
+Soy desarrollador de software junior titulado en Desarrollo de Aplicaciones Multiplataforma. Me siento especialmente cómodo trabajando con **Python**, y he desarrollado proyectos tanto móviles como web o de escritorio, centrados en la automatización, la educación y el trabajo en equipo.
 
 Actualmente sigo formándome en **Ciberseguridad**. Me encanta crear soluciones útiles, bien estructuradas y fáciles de usar.
 
 ---
 
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anibal98-GH&layout=compact&hide=typescript)
-
-![Aníbal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anibal98-GH&show_icons=true&theme=default)
-
-
 ## 🚀 Proyectos destacados
+
+### 🔐 EVOLK CONNECT – Plataforma de soporte remoto autoalojada (proyecto profesional)
+
+Solución completa de asistencia remota desarrollada durante mis prácticas para
+sustituir a una herramienta comercial, desplegada en **producción** y usada por
+los técnicos de la empresa. *(Código privado — infraestructura corporativa.)*
+
+- 🦀 **Cliente propio** rebrandeado desde RustDesk (Rust + Flutter): variantes cliente/desatendido, auto-elevación UAC y **conexión de un clic** desde el panel. Compilado y **firmado en Windows** (code-signing) y **macOS** (firma + notarización con Apple Developer ID).
+- 🐳 **Backend autoalojado**: stack dockerizado (RustDesk hbbs/hbbr + API propia en **FastAPI** + nginx/TLS) sobre VPS, con gestión de dominios y despliegue.
+- 🛡️ **Seguridad**: login con **Azure AD (OAuth2/OIDC)**, panel de administración con contraseñas cifradas (RSA), **2FA TOTP**, tokens de un solo uso, auditoría y rate-limiting. Validado con varias rondas de revisión de seguridad.
+
+**Stack:** Rust · Flutter/Dart · Python (FastAPI) · Docker · nginx · Azure AD · Linux
 
 ### 📝 TIACHER – Plataforma educativa para corrección automática de exámenes
 
@@ -45,7 +50,8 @@ Aunque no puedo mostrar el código, este proyecto me permitió aplicar técnicas
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
